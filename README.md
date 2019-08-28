@@ -81,4 +81,9 @@ The code has been contributed by Yifeng Tao, Ashok Rajaraman, Xiaoyue Cui, Ziyi 
 
 Contact: Yifeng Tao (yifengt@cs.cmu.edu), Russell Schwartz (russells@andrew.cmu.edu)
 
+## License
+
+![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share or adapt the material for non-commercial purposes.
+
 
