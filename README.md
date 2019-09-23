@@ -6,7 +6,7 @@
 
 This repository contains source code for the pipeline in the following paper:
 Yifeng Tao, Ashok Rajaraman, Xiaoyue Cui, Ziyi Cui, Jesse Eaton, Hannah Kim, Jian Ma, and Russell Schwartz.
-**Improving Personalized Predictiion of Cancer Prognoses with Clonal Evolution Models**. 2019.
+[**Improving Personalized Predictiion of Cancer Prognoses with Clonal Evolution Models**](https://www.biorxiv.org/content/10.1101/761510v1). bioRxiv 761510. 2019.
 
 
 ## Prerequisites
@@ -85,5 +85,27 @@ Contact: Yifeng Tao (yifengt@cs.cmu.edu), Russell Schwartz (russells@andrew.cmu.
 
 ![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share or adapt the material for non-commercial purposes.
+
+If you find this work helpful, please cite:
+```
+@article{tao2019cancerphylo,
+  title = {Improving Personalized Prediction of Cancer Prognoses with Clonal Evolution Models},
+  author = {Tao, Yifeng  and
+    Rajaraman, Ashok  and
+    Cui, Xiaoyue  and
+    Cui, Ziyi  and
+    Eaton, Jesse  and
+    Kim, Hannah  and
+    Ma, Jian  and
+    Schwartz, Russell},
+  journal = {bioRxiv},
+  elocation-id = {761510},
+  doi = {10.1101/761510},
+  publisher = {Cold Spring Harbor Laboratory},
+  URL = {https://www.biorxiv.org/content/early/2019/09/18/761510},
+  eprint = {https://www.biorxiv.org/content/early/2019/09/18/761510.full.pdf},
+  year = {2019},
+}
+```
 
 
